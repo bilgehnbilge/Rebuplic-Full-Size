@@ -1,3 +1,3 @@
-# Cumhuriyet-Arşiv
+# Republic Archive
 
-Cumhuriyet Arşiv içerisindeki sayfaları tam boyutlu görüntülemeyi sağlayan Chrome ve Firefox eklentisi.
+Chrome and Firefox plugin for full-size viewing of pages in Republic Archive.
